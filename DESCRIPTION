@@ -1,0 +1,8 @@
+Package: tzinfo
+Title: Tools for mapping locations to time zones
+Version: 0.1-0
+Author: Simon Urbanek <urbanek
+Maintainer: Simon Urbanek <urbanek@R-project.org>
+Description: Tools for mapping locations to time zones.
+License: MIT + file LICENSE
+Imports: fastshp, foreign, rcgal
